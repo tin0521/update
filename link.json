@@ -1,11 +1,11 @@
 {
- "visibility":"DISABLE",
+ "visibility":"VISIBLE",
   "sp":"2",
  "image":"",
  "ref":"hdjhk",
- "l1":"https://youtu.be/mqBQ4GOozF8?feature=shared",
+ "l1":"https://youtube.com/clip/Ugkx5u5sgin2uhUGQfNsL9TXV-iyqTJFtmhz?si=p6NdLDFd08G49wtN",
  "l2":"https://youtu.be/iYUmAQNa6Lc?feature=shared",
- "button1":"SHOW",
- "but1":"WATCH",
- "but2":"COMMENT"
+ "button1":"GONE",
+ "but1":"COMMENT",
+ "but2":"DOWNLOAD"
 }
