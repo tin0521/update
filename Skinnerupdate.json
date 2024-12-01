@@ -1,10 +1,10 @@
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Skin Available",
   "Description": "Skinner Tools recommends to update added new skins and fixed all.",
   "MainTextButton": "Update",
-  "Cancelable": "false",
+  "Cancelable": "true",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.skinnerpro.app",
-  "Version": "1.8"
+  "DownloadLink": "https://youtube.com/clip/Ugkxo8nOMZ3dgtmJt6_s89DgCaq6vg9Imc3e?si=K63ADPTFx_BfjylX",
+  "Version": "1.9"
 }
