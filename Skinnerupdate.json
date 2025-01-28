@@ -1,10 +1,10 @@
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Skin Available",
-  "Description": "Skinner Tools recommends to update added new skins and fixed all.",
+  "Description": "W Tools V2 partner of this app added new skins, revamped skin and fixed some skins.",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://youtu.be/Bql7tCmlhwk?si=BiNiQQvRncQoOT-Z",
-  "Version": "2.1"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.wtoolsv2.com",
+  "Version": "2.2"
 }
