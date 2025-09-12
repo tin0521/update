@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
   "Title": "New Skin Available",
-  "Description": "Added new skins, fixed skins and more.",
+  "Description": "If this app is not working you can download this new version with shizuku permission.",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.wtoolsv2.com",
-  "Version": "2.7"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.ggtools.gfx",
+  "Version": "2.8"
 }
