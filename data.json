@@ -1,9 +1,9 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "New Skin Available",
-  "Description": "NEW APP XENO! INSTALL AND UPDATE NOW!.",
+  "Title": "New Skin/fixed Available",
+  "Description": "NEW APP XENO! Download NOW!.",
   "MainTextButton": "DOWNLOAD",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.xeno.gfx",
   "Version": "3.0"
