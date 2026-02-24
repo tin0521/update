@@ -1,10 +1,10 @@
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Skin Available",
-  "Description": "If this app is not working you can download this new version with shizuku permission.",
+  "Description": "NEW APP INSTALL AND UPDATE NOW!.",
   "MainTextButton": "DOWNLOAD",
   "Cancelable": "true",
   "CancelButtonText": "Later",
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.ggtools.gfx",
-  "Version": "2.9"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.xeno.gfx",
+  "Version": "3.0"
 }
