@@ -3,7 +3,7 @@
   "Title": "New SKIN/FIXED Available",
   "Description": "RECOMMENDED NEW APP XENO DOWNLOAD NOW!.",
   "MainTextButton": "DOWNLOAD",
-  "Cancelable": "false",
+  "Cancelable": "true",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.xeno.gfx",
   "Version": "3.0"
